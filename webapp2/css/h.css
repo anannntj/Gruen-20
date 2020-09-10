@@ -1,0 +1,293 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Century Gothic;
+}
+
+header{
+background-image: url(../images/3.jpg);
+height: 5800vh;
+background-size: cover;
+background-position: center;
+}
+
+ul{
+float: right;
+list-style-type: none;
+margin-top: 25px;
+}
+
+ul li{
+display: inline-block;
+}
+
+ul li a{
+text-decoration: none;
+color: #fff;
+padding: 5px 20px;
+border: 1px solid transparent;
+transition: 0.6s ease;
+}
+
+ul li a:hover{
+background-color: #fff;
+color: #000;
+}
+
+ul li.active a{
+background-color: #fff;
+color: #000;
+}
+.logo img{
+float: left;
+width: 150px;
+height: auto;
+}
+
+.main{
+max-width: 1200px;
+margin: auto;
+}
+
+.title{
+position: absolute;
+top: 18%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.title h1{
+color: #fff;
+font-size: 70px;
+}
+
+.button{
+position: absolute;
+top: 54%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.btn{
+border: 1px solid #fff;
+padding: 20px 30 px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+}
+
+.btn:hover{
+background-color: #fff;
+color: #000;
+}
+
+.title h2{
+color: #fff;
+font-size: 20px;
+}
+
+.a{
+position: absolute;
+top: 45%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.a h1{
+color: #fff;
+font-size: 60px;
+}
+
+.b{
+position: absolute;
+top: 500%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.b h1{
+color: #fff;
+font-size: 25px;
+}
+
+.c{
+position: absolute;
+top: 960%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.c h1{
+color: #fff;
+font-size: 60px;
+}
+
+.d{
+position: absolute;
+top: 1400%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.d h1{
+color: #fff;
+font-size: 25px;
+}
+
+.e{
+position: absolute;
+top: 1832%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.e h1{
+color: #fff;
+font-size: 60px;
+}
+
+.f{
+position: absolute;
+top: 2537%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.f h1{
+color: #fff;
+font-size: 25px;
+}
+
+.g{
+position: absolute;
+top: 3242%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.g h1{
+color: #fff;
+font-size: 60px;
+}
+
+.h{
+position: absolute;
+top: 3670%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.h h1{
+color: #fff;
+font-size: 25px;
+}
+
+.i{
+position: absolute;
+top: 4099%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.i h1{
+color: #fff;
+font-size: 60px;
+}
+
+.j{
+position: absolute;
+top: 4310%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.j h1{
+color: #fff;
+font-size: 25px;
+}
+
+.k{
+position: absolute;
+top: 4514%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.k h1{
+color: #fff;
+font-size: 60px;
+}
+
+.l{
+position: absolute;
+top: 4710%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.l h1{
+color: #fff;
+font-size: 25px;
+}
+
+.m{
+position: absolute;
+top: 4914%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.m h1{
+color: #fff;
+font-size: 60px;
+}
+
+.n{
+position: absolute;
+top: 5075%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+
+.n h1{
+color: #fff;
+font-size: 25px;
+}
+
+.o{
+position: absolute;
+top: 28%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.o h1{
+color: #fff;
+font-size: 15px;
+}
+
+.p{
+position: absolute;
+top: 5220%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.p h1{
+color: #fff;
+font-size: 60px;
+}
+
+.q{
+position: absolute;
+top: 5329%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+
+.q h1{
+color: #fff;
+font-size: 25px;
+}
